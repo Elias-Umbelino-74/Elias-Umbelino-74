@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elias+Umbelino;I'm+26+years+old;I'm+from+Brazil;Data+Science+Explorer;Be+Welcome!+:%29;🖤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo,+Meu+nome+é+Elias+Umbelino;Tenho+26+anos;Um+Explorador+da+Ciência+de+Dados;Sinta-se+á+vontade!+;🖤)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
